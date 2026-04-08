@@ -23,7 +23,7 @@ Nous visons avant tout les passionnés de science-fiction en cherchant l’inves
 
 Dying Star se positionne comme un jeu immersif. Le joueur est un réfugié, un rouage dans une machine immense, contraint par ses limites biologiques. Dying Star rejette l'immédiateté "arcade", le farming instantané et le combat permanent au profit de la profondeur et de la préparation.
 
-Dying star prend un parti pris clair et assumé, le monde ne tourne pas autour du joueur. En tant que joueur, vous n'êtes pas le sauveur, vous êtes un composant du monde.
+Dying Star prend un parti pris clair et assumé, le monde ne tourne pas autour du joueur. En tant que joueur, vous n'êtes pas le sauveur, vous êtes un composant du monde.
 
 ## Quel est le cœur du jeu ?
 
@@ -54,7 +54,7 @@ Chaque décision a une inertie réelle :
 
 ### Réalisme et Dureté (Grounded)
 
-La survie est une mécanique active. La gestion de l'oxygène, de la faim, de la soif et de l'intégrité physique n'est pas un bonus, fait partie du quotidien.
+La survie est une mécanique active. La gestion de l'oxygène, de la faim, de la soif et de l'intégrité physique n'est pas un bonus, elle fait partie du quotidien.
 
 ### Lenteur Méthodique
 
